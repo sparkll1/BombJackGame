@@ -1,2 +1,2 @@
 # BombJackCat
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/sparkll1/BombJackGame/blob/main/gifforreadme.gif)
